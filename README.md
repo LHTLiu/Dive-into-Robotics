@@ -1,30 +1,34 @@
 # Dive-into-Robotics
+I really hope to tell you something seriously on the blackboard, not fool around, down-to-earth, if you are like me, want to understand those things that robots learn, robot learning has a desire, you can continue to learn the following content.
+After all, my personal ability is limited, if you have any questions, welcome criticism and correction. I hope I can become a clear stream of lectures, serious and practical, some reverence for knowledge, reject those ethos is not right.
 
+**Course characteristics**
 1. Online materials are mostly scripted, breaking the way of reading PPT type lectures  
 2. Pure writing board book teaching, intuitive, easy to understand  
 3. Exercises and homework for each class  
 4. Combine a variety of programming simulation exercises, theory + practice
 
-## 1. Introduction
-I really hope to tell you something seriously on the blackboard, not fool around, down-to-earth, if you are like me, want to understand those things that robots learn, robot learning has a desire, you can continue to learn the following content.
-After all, my personal ability is limited, if you have any questions, welcome criticism and correction. I hope I can become a clear stream of lectures, serious and practical, some reverence for knowledge, reject those ethos is not right.
+**Course Learning Methods:**  
+Public account: 劉海濤LHT  
+Updated every Friday at 6 p.m. Beijing time  
+Re: 我爱机器人学(read more)  
+E-mail: 912656542@qq.com  
 
-**1.1 Updated Friday at 6 p.m. Beijing time**  
-**1.2 [Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**  
-**1.3 [Online Docs](https://kdocs.cn/l/cb9gYbJgQoYT/)**  
+**[Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**(Updating)  
+**[Online Docs](https://kdocs.cn/l/cb9gYbJgQoYT/)**(Updating) 
 
-## 2. Class
+# 1. Class
 
-### 2.1 
-#### Content
-#### Link
+## 1.1 
+### Content
+### Link
 
-### 2.2
-#### Content
-#### Link
+## 1.2
+### Content
+### Link
 
-### 2.3 
-#### Content
-#### Link
+## 1.3 
+### Content
+### Link
 
-### 2.4
+## 1.4
