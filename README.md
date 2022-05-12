@@ -8,8 +8,7 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 3. Exercises and homework for each class  
 4. Combine a variety of programming simulation exercises, theory + practice
 
-**Course Learning Methods:**  
-
+**Course Learning Methods**  
 A. Public account: 劉海濤LHT  
 B. Updated every Friday at 6 p.m. Beijing time  
 C. Re: 我爱机器人学(read more)  
