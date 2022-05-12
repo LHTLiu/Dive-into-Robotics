@@ -14,7 +14,7 @@ After all, my personal ability is limited, if you have any questions, welcome cr
   Updated every Friday at 6 p.m. Beijing time  
   Re: 我爱机器人学(read more)  
   E-mail: 912656542@qq.com  
-  ![hh](C:\Users\LHT\Desktop\《动手学机器人学》课程目录（实时更新）.png)
+  ![微信公众号](https://img-blog.csdnimg.cn/52a312b3c4be4252b50cecb954ac229b.png))
 
 **[Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**(Updating)  
 **[Online Docs](https://kdocs.cn/l/cb9gYbJgQoYT/)**(Updating) 
