@@ -9,10 +9,11 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 4. Combine a variety of programming simulation exercises, theory + practice
 
 **Course Learning Methods:**  
-Public account: 劉海濤LHT  
-Updated every Friday at 6 p.m. Beijing time  
-Re: 我爱机器人学(read more)  
-E-mail: 912656542@qq.com  
+
+  Public account: 劉海濤LHT  
+  Updated every Friday at 6 p.m. Beijing time  
+  Re: 我爱机器人学(read more)  
+  E-mail: 912656542@qq.com  
 
 **[Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**(Updating)  
 **[Online Docs](https://kdocs.cn/l/cb9gYbJgQoYT/)**(Updating) 
