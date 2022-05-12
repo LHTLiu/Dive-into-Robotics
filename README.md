@@ -10,10 +10,10 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 
 **Course Learning Methods:**  
 
-    Public account: 劉海濤LHT  
-    Updated every Friday at 6 p.m. Beijing time  
-    Re: 我爱机器人学(read more)  
-    E-mail: 912656542@qq.com  
+A. Public account: 劉海濤LHT  
+B. Updated every Friday at 6 p.m. Beijing time  
+C. Re: 我爱机器人学(read more)  
+D. E-mail: 912656542@qq.com  
 <!--   ![微信公众号](https://img-blog.cn/52a312b3c4be4252b50cecb954ac229b.png) -->
 
 **[Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**(Updating)  
