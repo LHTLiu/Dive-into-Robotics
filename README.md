@@ -18,7 +18,7 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 **[Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**(Updating)  
 **[Online Docs](https://kdocs.cn/l/cb9gYbJgQoYT/)**(Updating) 
 
-# Class
+# Class(Updating) 
 | Index                                     | Description                                  | Link    |
 | :---                                      | :----                                        | :---: |
 | 1.1 概述                                  | 介绍                                         | Link |
