@@ -22,7 +22,7 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 | Index                                     | Description                                    | Link    |
 | :---                                      | :----                                          | :---: |
 | 1.1 概述                                  | 介绍                                           |  |
-| 1.2 齐次坐标与齐次坐标变换                 | 1.2.1、空间位姿描述（链接）                    |- [x] Link（2022.05.27更新） |
+| 1.2 齐次坐标与齐次坐标变换                 | 1.2.1、空间位姿描述（链接）                    |- [ ] Link（2022.05.27更新） |
 |                                            | 1.2.2、Robotics Toolbox①（链接）              | Link（2022.06.03更新） |  
 |                                            | 1.2.3、齐次坐标与变换矩阵                     | Link（2022.06.10更新） |
 |                                            | 1.2.4、一般形式的旋转变换矩阵                 | Link（2022.06.17更新） |
