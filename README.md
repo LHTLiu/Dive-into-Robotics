@@ -22,8 +22,8 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 | Index                                     | Description                                    | Link    |
 | :---                                      | :----                                          | :---: |
 | 1.1 概述                                  | 介绍                                           |  |
-| 1.2 齐次坐标与齐次坐标变换                 | 1.2.1、空间位姿描述（链接）                    | **Link（2022.05.27更新）** |
-|                                            | 1.2.2、Robotics Toolbox①（链接）              | Link（2022.06.03更新） |  
+| 1.2 齐次坐标与齐次坐标变换                 | 1.2.1、空间位姿描述                            | **Link（2022.05.27更新）** |
+|                                            | 1.2.2、Robotics Toolbox①                      | Link（2022.06.03更新） |  
 |                                            | 1.2.3、齐次坐标与变换矩阵                     | Link（2022.06.10更新） |
 |                                            | 1.2.4、一般形式的旋转变换矩阵                 | Link（2022.06.17更新） |
 |                                            | 1.2.5、一般形式旋转矩阵公式证明and齐次坐标变换 | Link（2022.06.24更新） |
@@ -54,31 +54,6 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 |                                            | 2.3.4、二连杆机构动力学应用举例                     | Link |
 | 4.4 “Aubo i5”协作机器人动力学建模实例       | 实例                                              | Link |
 
-
-<!-- <table>
-    <tr>
-        <td>Index</td>
-        <td>Description</td>
-        <td>Links</td>
-    <tr>
-        
-    <tr>
-        <td>1.1 概述</td>
-        <td>介绍</td>
-        <td>Link</td>
-    <tr>
-        
-    <tr>
-        <td>1.2 齐次坐标与齐次坐标变换</td>
-        <td>1.2.1、空间位姿描述（链接）</td>
-        <td>Link</td>
-    <tr>
-    <tr>
-        <td>1.2 齐次坐标与齐次坐标变换</td>
-        <td>1.2.2、Robotics Toolbox①（链接）</td>
-        <td>Link</td>
-    <tr>
-</table> -->
 
 
 
