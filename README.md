@@ -28,7 +28,7 @@ After all, my personal ability is limited, if you have any questions, welcome cr
 |                                            | 1.2.4、一般形式的旋转变换矩阵                 | Link（2022.06.17更新） |
 |                                            | 1.2.5、一般形式旋转矩阵公式证明and齐次坐标变换 | Link（2022.06.24更新） |
 | 1.3 空间位姿表示方法                       | 1.3.1、RPY角                                   | Link（2022.07.01更新） |
-|                                            | 1.3.2、Euler角及                               | Link（2022.07.08更新） |  
+|                                            | 1.3.2、Euler角                                | Link（2022.07.08更新） |  
 |                                            | 1.3.3、“万向节锁死”问题和轴角法                | Link |
 |                                            | 1.3.4、四元数法                                | Link |
 | 1.3 空间位姿表示方法                       | 1.3.1、RPY角                                   | Link |
