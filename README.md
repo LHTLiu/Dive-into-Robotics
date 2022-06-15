@@ -1,24 +1,24 @@
 # Dive-into-Robotics
-I really hope to tell you something seriously on the blackboard, not fool around, down-to-earth, if you are like me, want to understand those things that robots learn, robot learning has a desire, you can continue to learn the following content.
-After all, my personal ability is limited, if you have any questions, welcome criticism and correction. I hope I can become a clear stream of lectures, serious and practical, some reverence for knowledge, reject those ethos is not right.
-希望给大家认认真真的板书讲东西，不糊弄，踏踏实实，如果大家也是和我一样，想弄懂机器人学的那些事，对机器人学习有着渴求，可以继续学习下面的内容。
-毕竟能力有限，如果有问题，欢迎批评指正。我希望我可以成为讲课届的一股清流，认真踏实，对知识有些敬畏，拒绝那些风气不正
+I really hope to tell you something seriously on the blackboard, not fool around, down-to-earth, if you are like me, want to understand those things that robots learn, robot learning has a desire, you can continue to learn the following content.  
+After all, my personal ability is limited, if you have any questions, welcome criticism and correction. I hope I can become a clear stream of lectures, serious and practical, some reverence for knowledge, reject those ethos is not right.  
+
+希望给大家认认真真的板书讲东西，不糊弄，踏踏实实，如果大家也是和我一样，想弄懂机器人学的那些事，对机器人学习有着渴求，可以继续学习下面的内容。  
+毕竟能力有限，如果有问题，欢迎批评指正。我希望我可以成为讲课届的一股清流，认真踏实，对知识有些敬畏，拒绝那些风气不正  
 
 **Course characteristics**
 1. Online materials are mostly scripted, breaking the way of reading PPT type lectures  
 2. Pure writing board book teaching, intuitive, easy to understand  
 3. Exercises and homework for each class  
 4. Combine a variety of programming simulation exercises, theory + practice
+
 1. 网上资料大多照本宣科，打破念PPT式的讲课方式
 2. 纯手写板书式教学，直观、方便理解
 3. 每节课都会有练习题以及课后作业
 4. 结合多种编程仿真练习，理论+实践
 
 **Course Learning Methods**  
-1、B站：[劉海濤LHT](https://www.bilibili.com/video/BV1CY4y1W7Ry/?spm_id_from=333.788&vd_source=bdbd2cae943df9a87e7e4562d3092936)（唯一账号）（定期更新）
-2、邮箱：912656542@qq.com（提问质疑、商务合作）
-
-**[Github Link](https://github.com/LIUHAITAO-CH/Dive-into-Robotics/)**(Updating)  
+1、B站：[劉海濤LHT](https://www.bilibili.com/video/BV1CY4y1W7Ry/?spm_id_from=333.788&vd_source=bdbd2cae943df9a87e7e4562d3092936)（唯一账号）（定期更新）  
+2、邮箱：912656542@qq.com（提问质疑、商务合作）    
 
 # Class(Updating) 
 | Index                                     | Description                                    | Link    |
