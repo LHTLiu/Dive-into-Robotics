@@ -53,7 +53,7 @@
 
 
 ## 6、其他资源
-### 6.1 [六自由度逆解demo]()（包括完成版逆解函数代码）
+### 6.1 [六自由度逆解demo](https://mp.weixin.qq.com/s?__biz=MzU3Nzc4NTg3Mg==&mid=2247483945&idx=1&sn=39dfcd29611cf1f4703de07e07f00ed3&chksm=fd7e1b56ca099240eddeb850ee498ee8bf5ad7d7901163c5be192a208953e17f3924996d343b&payreadticket=HG0fkhwQmTOcjHa2PNSwL4ohD2jjuqQOXSgRDceW7RWYasEebhaL50CPWrbtfsGEFnHpEAI#rd)（包括完成版逆解函数代码）
 
 
 
