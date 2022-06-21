@@ -21,7 +21,7 @@
 | 1.2 齐次坐标与齐次坐标变换                  | 1.2.1、空间位姿描述                            | **[马上卷同学](https://www.bilibili.com/video/BV1Lv4y1G7HM/?spm_id_from=333.788&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.14更新）** |
 |                                            | 1.2.2、Robotics Toolbox①                      | **[马上卷同学](https://www.bilibili.com/video/BV1Rt4y1H7qh/?spm_id_from=333.788&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.15更新）** |  
 |                                            | 1.2.3、齐次坐标与变换矩阵                     | **[马上卷同学](https://www.bilibili.com/video/BV1Vt4y1h73W/?spm_id_from=333.788&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.17更新）** |
-|                                            | 1.2.4、一般形式的旋转变换矩阵                 | [马上卷同学]()（2022.06.20更新） |
+|                                            | 1.2.4、一般形式的旋转变换矩阵                 | **[马上卷同学](https://www.bilibili.com/video/BV1DZ4y1q7Tj?vd_source=bdbd2cae943df9a87e7e4562d3092936#reply117679126432)（2022.06.20更新）** |
 |                                            | 1.2.5、一般形式旋转矩阵公式证明and齐次坐标变换 | 马上卷同学（2022.06.22更新） |
 | 1.3 空间位姿表示方法                       | 1.3.1、RPY角                                   | 马上卷同学（2022.06.24更新） |
 |                                            | 1.3.2、Euler角                                | 马上卷同学（2022.06.27更新） |  
