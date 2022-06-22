@@ -23,8 +23,8 @@
 |                                            | 1.2.3、齐次坐标与变换矩阵                     | **[马上卷同学](https://www.bilibili.com/video/BV1Vt4y1h73W/?spm_id_from=333.788&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.17更新）** |
 |                                            | 1.2.4、一般形式的旋转变换矩阵                 | **[马上卷同学](https://www.bilibili.com/video/BV1DZ4y1q7Tj?vd_source=bdbd2cae943df9a87e7e4562d3092936#reply117679126432)（2022.06.20更新）** |
 |                                            | 1.2.5、一般形式旋转矩阵公式(轴角法)(罗德里格旋转公式)(Rodrigues' rotation formula)证明and齐次坐标变换 | **[马上卷同学](https://www.bilibili.com/video/BV12B4y1s7jm?spm_id_from=333.999.0.0&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.21更新）** |
-| 1.3 空间位姿表示方法                       | 1.3.1、RPY角                                   | 马上卷同学（2022.06.22更新） |
-|                                            | 1.3.2、Euler角                                | 马上卷同学（2022.06.23更新） |  
+| 1.3 空间位姿表示方法                       | 1.3.1、RPY角                                   | **[马上卷同学](https://www.bilibili.com/video/BV1H3411u7Q3?spm_id_from=333.999.0.0&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.22更新）** |
+|                                            | 1.3.2、Euler角                                | **[马上卷同学]()（2022.06.23更新）** |  
 |                                            | 1.3.3、“万向节锁死”问题和轴角法                | Link |
 |                                            | 1.3.4、四元数法                                | Link |
 | 1.3 空间位姿表示方法                       | 1.3.1、RPY角                                   | Link |
