@@ -49,7 +49,8 @@
 
 
 ## 6、其他资源
-### 6.1 [六自由度逆解demo](https://mp.weixin.qq.com/s?__biz=MzU3Nzc4NTg3Mg==&mid=2247483945&idx=1&sn=39dfcd29611cf1f4703de07e07f00ed3&chksm=fd7e1b56ca099240eddeb850ee498ee8bf5ad7d7901163c5be192a208953e17f3924996d343b&payreadticket=HG0fkhwQmTOcjHa2PNSwL4ohD2jjuqQOXSgRDceW7RWYasEebhaL50CPWrbtfsGEFnHpEAI#rd)（包括完成版逆解函数代码）
+### 6.1 [六自由度逆解demo（234轴平行的构型，例如UR5等）](https://mp.weixin.qq.com/s?__biz=MzU3Nzc4NTg3Mg==&mid=2247483945&idx=1&sn=39dfcd29611cf1f4703de07e07f00ed3&chksm=fd7e1b56ca099240eddeb850ee498ee8bf5ad7d7901163c5be192a208953e17f3924996d343b&payreadticket=HG0fkhwQmTOcjHa2PNSwL4ohD2jjuqQOXSgRDceW7RWYasEebhaL50CPWrbtfsGEFnHpEAI#rd)（包括完整版逆解函数代码）
+### 6.2 [六自由度逆解demo（后三轴相交于一点的构型，例如PUMA560等）](https://mp.weixin.qq.com/s?__biz=MzU3Nzc4NTg3Mg==&mid=2247483971&idx=1&sn=0801dcd3f0227b9bb70c54b0f2f5f620&chksm=fd7e1b3cca09922a0145f9c58170346836797f966ea2db9e536f047868fa50a86d3880dd4af7&payreadticket=HGEocjcWPU9Y5Xwpx2lcrPkqP3tVWez6eabjOH9eZUxFlQZ0wHf5eIE5ZcXRv2Z4uxQMs1M#rd)（包括完整版逆解函数代码）
 
 
 
