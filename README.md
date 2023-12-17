@@ -27,8 +27,8 @@
 |                                            | 1.3.2、Euler角                                | **[马上卷同学](https://www.bilibili.com/video/BV11r4y1u7qc?spm_id_from=333.999.0.0&vd_source=bdbd2cae943df9a87e7e4562d3092936)（2022.06.23更新）** |  
 |                                            | 1.3.3、“万向节锁死”问题(gimbal lock)                | Link |
 |                                            | 1.3.4、四元数法                                | Link |
-| 1.4 机器人连杆D-H参数及其坐标变换           | 3.4.1、DH参数法                                | Link |
-|                                            | 3.4.2、连杆之间的坐标变换                       | Link |
+| 1.4 机器人连杆D-H参数及其坐标变换           | 3.4.1、DH参数法（标准DH参数）                                | **[马上卷同学](https://www.bilibili.com/video/BV1up4y1A7ah/?spm_id_from=333.999.0.0&vd_source=bdbd2cae943df9a87e7e4562d3092936) |
+| 1.4 机器人连杆D-H参数及其坐标变换           | 3.4.2、DH参数法                                | Link |
 | 1.5 机器人运动学                           | 3.5.1、机械臂正运动学                           | Link |
 |                                            | 3.5.2、机械臂逆运动学                           | Link |
 | 1.6 “遨博i5”协作机器人运动学方程实例        | 3.6.1、遨博i5协作机器人正运动学建模             | Link |
